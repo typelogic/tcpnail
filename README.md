@@ -1,5 +1,6 @@
 # Server
 `nc -l -p $port`
+
 `tcpdump -i eth0 port $port -w $pcapfile`
 
 # Client
